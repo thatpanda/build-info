@@ -44,7 +44,7 @@ public class MainActivity extends Activity
         {
             try
             {
-                sb.append(String.format("%s = %s\n", field.getName(), field.get(obj)));
+                sb.append(String.format("%1$s = %2$s\n", field.getName(), field.get(obj)));
             }
             catch(IllegalAccessException e)
             {
