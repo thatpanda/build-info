@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Build Info</string>
-    <string name="dialog_title">Build Info 0.2</string>
+    <string name="dialog_title">Build Info 0.3</string>
     
     <string name="display_header">--- Display ---</string>
     <string name="build_header">--- Build ---</string>
