@@ -3,7 +3,15 @@
 
     <string name="app_name">Build Info</string>
     <string name="dialog_title">Build Info 0.2</string>
+    
+    <string name="display_header">--- Display ---</string>
     <string name="build_header">--- Build ---</string>
     <string name="build_version_header">--- Build.VERSION ---</string>
+    
+    <string name="density_format">Density = %1$s (%2$s ~%3$sdpi)</string>
+    <string name="orientation_format">Orientation = %1$s</string>
+    <string name="resolution_format">Resolution = %1$sx%2$s</string>
+    <string name="rotation_format">Rotation = %1$s (%2$s)</string>
+    <string name="screen_size_format">Screen Size = %1$s</string>
 
 </resources>
