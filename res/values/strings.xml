@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Build Info</string>
-    <string name="dialog_title">Build Info 0.1</string>
+    <string name="dialog_title">Build Info 0.2</string>
     <string name="build_header">--- Build ---</string>
     <string name="build_version_header">--- Build.VERSION ---</string>
 
